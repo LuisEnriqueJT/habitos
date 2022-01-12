@@ -1,0 +1,11 @@
+*{
+	font-family: 'Verdana';
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #1A1D61;
+	color: white;
+	padding: 1%;
+}
